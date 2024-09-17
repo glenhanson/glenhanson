@@ -1,4 +1,4 @@
-- Machine Learning Engineer
+- Machine Learning Engineer & Data Scientist
 
 <!---
 glenhanson/glenhanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
